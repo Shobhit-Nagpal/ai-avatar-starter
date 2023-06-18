@@ -1,3 +1,6 @@
+## About
+An AI avatar image generator website with a Stable diffusion model trained on me. Built with the help of buildspace build. Link to website: https://ai-avatar-starter-production-7157.up.railway.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
